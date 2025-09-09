@@ -5,7 +5,7 @@ import NeighborhoodSection from "../Componet/NeibhourHood"
 import HomeCard from '../Componet/HomeCard'
 import { FaQuoteLeft } from 'react-icons/fa'
 import ContactSection from '../Componet/ContactSection'
-import ImageWithTextSection from '../Componet/ImageWithTextSection'
+import ImageWithTextSection from '../Componet/ImageWithText'
 import ThreePart from '../Componet/ThreePart'
 import QuoteSection from '../Componet/QuoteoSection'
 import AnimatedIntroSection from '../Componet/AnimationIntroSection'
